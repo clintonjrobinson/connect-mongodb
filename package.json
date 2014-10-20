@@ -23,8 +23,8 @@
     "url": "git://github.com/masylum/connect-mongodb.git"
   },
   "dependencies": {
-    "express-session": "~1.7.2",
-    "mongodb": "~1.4.8"
+    "express-session": "~1.9.0",
+    "mongodb": "~1.4.19"
   },
   "devDependencies": {
     "testosterone": "1.2.0",
